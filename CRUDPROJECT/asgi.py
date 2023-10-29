@@ -7,10 +7,6 @@ For more information on this file, see
 https://docs.djangoproject.com/en/4.2/howto/deployment/asgi/
 """
 
-"""
-Test comment
-"""
-
 import os
 
 from django.core.asgi import get_asgi_application
